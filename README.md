@@ -1,4 +1,4 @@
-
+## How powerful can an ensemble of linear models be?
 ### How an ensemble of linear models got in the top 6% of Mercari price prediction challenge leaderboard on Kaggle.
 
 *With the rapid growth of deep learning algorithms in recent years, today they have become a state of the art in AI. And this makes me wonder if the traditional and old school machine learning techniques like Linear Regression, Support Vector Machines, etc are still decent enough that they can go head to head with deep learning techniques?
